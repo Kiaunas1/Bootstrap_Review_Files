@@ -73,7 +73,7 @@ body{
 /*--- Course Section--*/
 
 .narrow {
-   width: 75%;
+   width: 50%;
    margin: 1.5rem auto;
    padding-top: 2rem;
 
@@ -131,7 +131,7 @@ font-size: 1.1rem;
 /*---Resources Section--*/
 
 .fixed {
- background-image: url(../img/apple.png);
+ background-image: url(../img/home2.jpg);
  z-index: -1;
 }
 .dark{
